@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "iskola.dtd">
+<iskola>
+	<tanar kod="matolaj">
+		<nev>
+			Dr. Olajos Peter
+		</nev>
+		<szak>
+			matek
+		</szak>
+	</tanar>
+	<tanar kod="matha">
+		<nev>
+			Dr. Hazy Attila
+		</nev>
+		<szak>
+			matek
+		</szak>
+	</tanar>
+	<tantargy kod="GEAL301" oktato="matolaj">
+		<tnev>
+			Latex
+		</tnev>
+		<osztaly>
+			2BPI1
+		</osztaly>
+	</tantargy>
+	<tantargy kod="GEAL305" oktato="matha">
+		<tnev>
+			Algoritmusok
+		</tnev>
+		<osztaly>
+			1BPI2
+		</osztaly>
+	</tantargy>
+</iskola>

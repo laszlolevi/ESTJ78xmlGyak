@@ -1,0 +1,7 @@
+<!ELEMENT orarend (ora+) >
+<!ELEMENT ora (targy, idopont, helyszin, oktato, szak) >
+<!ELEMENT idopont (nap, tol, ig)>
+<!ELEMENT targy, nap, tol, ig, helyszin, oktato, szak (#PCDATA) >
+
+<!ATTLIST ora tipus CDATA #REQUIRED>
+<!ATTLIST ora id ID #REQUIRED>
