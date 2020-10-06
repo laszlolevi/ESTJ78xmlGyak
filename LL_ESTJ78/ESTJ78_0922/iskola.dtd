@@ -1,8 +1,0 @@
-<!ELEMENT iskola (tanar+, tantárgy+)>
-<!ELEMENT tanar (név, szak)>
-<!ELEMENT tantárgy (tnév, osztály)>
-<!ELEMENT név, szak, tnév, osztály (#PCDATA)>
-
-<!ATTRLIST tanar kod ID #REQUIRED>
-<!ATTRLIST tantargy kod ID #REQUIRED>
-<!ATTRLIST tantargy oktato IDREF #REQUIRED>
