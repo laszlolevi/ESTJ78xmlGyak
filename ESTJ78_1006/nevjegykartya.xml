@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nevjegykartyak xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+                xsi:noNamespaceSchemaLocation="nevjegykartya.xsd">
+    <nevjegykartya id="1">
+        <nev>Ebed Elek</nev>
+        <ceg>
+            <cim>
+                <iranyitoszam>3515</iranyitoszam>
+                <varos>Miskolc</varos>
+                <utca>Petofi</utca>
+                <hazszam>5</hazszam>
+            </cim>
+            <nev>Google</nev>
+            <telefonszam korzet="36">204561234</telefonszam>
+            <weblap>google.com</weblap>
+        </ceg>
+        <beosztas>Software developer</beosztas>
+        <telefonszam korzet="36">204562345</telefonszam>
+        <email>ebed.elek.1986@gmail.com</email>
+    </nevjegykartya>
+</nevjegykartyak>
